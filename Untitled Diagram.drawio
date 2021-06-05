@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T12:36:08.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="3_RhptfrR1XpQzskSw3B" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T12:37:22.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="XIrpgBeQu1Q2OFSTmUju" version="14.7.6" type="github">
   <diagram id="YQ_ZdgGAIjpaCAKV4kZj" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry x="60" y="360" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VMUBRTDMVKvMAyg3YUCJ-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="570" width="50" height="110" as="geometry" />
+          <mxGeometry x="650" y="600" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Z-3VilA6wW5ccLu5Isxi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z-3VilA6wW5ccLu5Isxi-1" target="VMUBRTDMVKvMAyg3YUCJ-2">
           <mxGeometry relative="1" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="60" y="670" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Z-3VilA6wW5ccLu5Isxi-23" value="UP : &lt;br&gt;x = 0&lt;br&gt;&lt;br&gt;DOWN :&lt;br&gt;&amp;nbsp;y =0&lt;br&gt;UP/DOWN 버튼" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="810" width="60" height="110" as="geometry" />
+          <mxGeometry x="60" y="830" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Z-3VilA6wW5ccLu5Isxi-26" value="x / y &lt;br&gt;2비트 기억소자" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="375" width="45" height="80" as="geometry" />
@@ -86,7 +86,19 @@
           <mxGeometry x="165" y="685" width="45" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z-3VilA6wW5ccLu5Isxi-29" value="x / y &lt;br&gt;2비트 기억소자" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="830" width="45" height="80" as="geometry" />
+          <mxGeometry x="165" y="850" width="45" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-3VilA6wW5ccLu5Isxi-30" value="비교기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-3VilA6wW5ccLu5Isxi-31" value="비교기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="555" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-3VilA6wW5ccLu5Isxi-32" value="비교기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="710" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-3VilA6wW5ccLu5Isxi-33" value="비교기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="870" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
