@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T12:37:22.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="XIrpgBeQu1Q2OFSTmUju" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T12:39:17.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="hwoT2Zjh93lmdKFvS7hN" version="14.7.6" type="github">
   <diagram id="YQ_ZdgGAIjpaCAKV4kZj" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,6 +63,11 @@
         </mxCell>
         <mxCell id="Z-3VilA6wW5ccLu5Isxi-12" value="UP : 1&lt;br&gt;DOWN : 0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="150" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-3VilA6wW5ccLu5Isxi-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z-3VilA6wW5ccLu5Isxi-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Z-3VilA6wW5ccLu5Isxi-19" value="목적지&lt;br&gt;2비트 기억소자" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="150" width="90" height="40" as="geometry" />
