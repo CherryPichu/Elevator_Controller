@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T12:18:28.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.272 Whale/2.9.118.16 Safari/537.36" etag="9aNiLO4N0X0UXqUxXCpD" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-07T12:19:34.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.272 Whale/2.9.118.16 Safari/537.36" etag="OPyPDvlCIrx5m350Ylb2" version="14.7.6" type="github">
   <diagram id="Hf4F8EhudIx9GHcKuJyu" name="Page-1">
     <mxGraphModel dx="1372" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,16 +19,10 @@
         <mxCell id="U3d2GX4V-Grrhq8g660X-3" value="Sequential&lt;br&gt;Logic Circuits" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="277" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U3d2GX4V-Grrhq8g660X-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="U3d2GX4V-Grrhq8g660X-6" target="U3d2GX4V-Grrhq8g660X-51" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="502" y="370" />
-              <mxPoint x="532" y="370" />
-              <mxPoint x="532" y="395" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="MSdvfhRrc70D8MsgnU8q-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U3d2GX4V-Grrhq8g660X-6" target="U3d2GX4V-Grrhq8g660X-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MSdvfhRrc70D8MsgnU8q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U3d2GX4V-Grrhq8g660X-6" target="MSdvfhRrc70D8MsgnU8q-4">
+        <mxCell id="MSdvfhRrc70D8MsgnU8q-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U3d2GX4V-Grrhq8g660X-6" target="MSdvfhRrc70D8MsgnU8q-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U3d2GX4V-Grrhq8g660X-6" value="3bit&amp;nbsp; Comparator" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
@@ -164,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MSdvfhRrc70D8MsgnU8q-4" value="if (=) than&lt;br&gt;CLEAR" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="240" width="90" height="90" as="geometry" />
+          <mxGeometry x="562" y="270" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
